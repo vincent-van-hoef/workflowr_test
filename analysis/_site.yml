@@ -1,7 +1,7 @@
-name: "workflowr_test"
+name: workflowr_test
 output_dir: ../docs
 navbar:
-  title: "workflowr_test"
+  title: workflowr_test
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/vincent-van-hoef/workflowr_test
 output:
   workflowr::wflow_html:
     toc: yes
