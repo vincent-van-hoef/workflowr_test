@@ -1,5 +1,5 @@
 # workflowr_test
 
-A [workflowr][] project.
+This is a [workflowr][] project.
 
 [workflowr]: https://github.com/jdblischak/workflowr
