@@ -10,6 +10,5 @@ editor_options:
 ## Test
 
 ```{r}
-test git 2
 ```
 
