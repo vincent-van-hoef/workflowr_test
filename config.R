@@ -14,6 +14,7 @@ wflow_use_github("vincent-van-hoef")
 wflow_git_push()
 wflow_open("analysis/first-analysis.Rmd")
 
+
 this is other db
 
 
@@ -21,3 +22,6 @@ this is other db
 
 
 this is another db
+
+This is a test
+
