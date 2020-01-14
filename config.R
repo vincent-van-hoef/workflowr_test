@@ -4,3 +4,4 @@ library("workflowr")
 wflow_git_config(user.name = "Vincent van Hoef", user.email = "vincent.vanhoef@kuleuven.vib.be")
 
 
+test pull
