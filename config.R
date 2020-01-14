@@ -13,3 +13,5 @@ wflow_publish(c("analysis/index.Rmd", "analysis/about.Rmd", "analysis/license.Rm
 wflow_use_github("vincent-van-hoef")
 wflow_git_push()
 wflow_open("analysis/first-analysis.Rmd")
+
+This is a test
